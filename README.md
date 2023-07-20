@@ -9,4 +9,4 @@
 
 ## 相關連結
 
-- [GitHub Codespaces 創建新 Nuxt 3 專案並預覽開發效果](https://www.tpisoftware.com/tpu/articleDetails/2940)
+- [GitHub Codespaces 創建新 Nuxt 3 專案並預覽開發效果 | 昕力大學](https://www.tpisoftware.com/tpu/articleDetails/2940)
